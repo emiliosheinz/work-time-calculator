@@ -1,0 +1,17 @@
+.hour-input-combo{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-top: 10px;
+}
+
+.hour-input-label{
+    font-size: 20px;
+}
+
+.masked-hour-input{
+    padding: 5px;
+    outline: none;
+    margin-left: 10px;
+    border: none;
+}

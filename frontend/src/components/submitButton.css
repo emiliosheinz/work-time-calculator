@@ -1,0 +1,18 @@
+.submit-button{
+    height: 50px;
+    width: 100%;
+    border-radius: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: #EA9215;
+  }
+  
+  .submit-button:hover{
+    background-color: #FAA041;
+    cursor: pointer;
+  }
