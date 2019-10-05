@@ -4,7 +4,7 @@ App developed to learn more about deploy of application on heroku, it was develo
 To access the application you can follow this link: http://work-time-calculator-frontend.herokuapp.com/
 
 # Preview
-
+![](preview.gif)
 
 # Used technolgies
 - ReactJS
