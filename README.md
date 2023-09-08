@@ -8,6 +8,3 @@ App developed to learn more about deploy of application on heroku, it was develo
 - ReactJS
 - NodeJS
 - Heroku
-
-## :man: Contributors
-- [@emiliosheinz](https://github.com/emiliosheinz)
